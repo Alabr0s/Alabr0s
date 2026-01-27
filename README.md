@@ -279,21 +279,6 @@ console.log("Let's build something amazing together! 💻");
 - 🐹 Go for scalable backend services  
 - 🧠 Machine Learning & AI integration
 - ☁️ Advanced cloud architecture patterns
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Open For:**
-- 💼 Full-time job opportunities
-- 🤝 Collaborative open source projects
-- 💡 Innovative startup ideas
-- 🎯 Freelance consulting work
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Ask Me About:**
-- 💻 Full-stack development
-- 🏗️ System architecture & design patterns
-- 🗃️ Database optimization & design
-- 🔐 API development & security
-- 🐳 Docker & containerization
-- ☁️ Cloud deployment strategies
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -302,23 +287,11 @@ console.log("Let's build something amazing together! 💻");
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:lioster4141@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://discord.com/users/yourid">
+<a href="https://discord.com/users/1458233619347931310">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-<a href="https://instagram.com/yourhandle">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
 </a>
 
 <br/><br/>
@@ -357,9 +330,5 @@ console.log("Let's build something amazing together! 💻");
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=150&section=footer&animation=twinkling" width="100%" />
-
-<br/>
-
-**Made with 💙 and lots of ☕**
 
 </div>
