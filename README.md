@@ -45,32 +45,31 @@ const halil = {
     
     code: {
         frontend: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
-        backend: ["Python", "Node.js", "PHP", "C", "C++", "C#"],
-        interests: ["Web Dev", "System Programming", "API Design", "Database Architecture"]
+        backend: ["Python", "Node.js", "PHP", "C++"],
+        interests: ["System Programming", "API Design"]
     },
     
     technologies: {
         frontend: {
-            frameworks: ["React", "Vue.js", "Next.js", "Angular"],
-            styling: ["Tailwind CSS", "Bootstrap", "Material-UI", "SASS"],
-            stateManagement: ["Redux", "Zustand", "Pinia"]
+            frameworks: ["React", "Next.js"],
+            styling: ["Tailwind CSS", "Bootstrap"],
         },
         backend: {
-            nodeJs: ["Express.js", "NestJS", "Fastify", "Socket.io"],
-            python: ["Django", "Flask", "FastAPI", "Celery"],
-            php: ["Laravel", "Symfony", "CodeIgniter"],
-            dotNet: [".NET Core", "ASP.NET", "Entity Framework"]
+            nodeJs: ["Express.js"],
+            python: ["Django"],
+            php: ["Laravel"],
+            dotNet: [".NET Core"]
         },
         databases: {
-            sql: ["MySQL", "PostgreSQL", "SQLite", "MariaDB"],
-            noSql: ["MongoDB", "Redis", "Firebase"],
-            orm: ["Prisma", "TypeORM", "Sequelize", "SQLAlchemy"]
+            sql: ["MySQL", "SQLite"],
+            noSql: ["MongoDB", "Firebase"],
+            orm: ["Prisma"]
         },
         devOps: {
-            containerization: ["Docker", "Kubernetes", "Docker Compose"],
-            cloud: ["AWS", "Azure", "Google Cloud", "DigitalOcean"],
-            ciCd: ["GitHub Actions", "Jenkins", "GitLab CI"],
-            monitoring: ["Prometheus", "Grafana", "ELK Stack"]
+            containerization: ["Docker"],
+            cloud: ["AWS"],
+            ciCd: ["GitLab CI"],
+            monitoring: []
         },
         tools: ["Git", "VS Code", "Postman", "Linux", "Nginx", "Apache"]
     },
